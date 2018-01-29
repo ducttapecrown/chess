@@ -37,8 +37,11 @@ Sam beat Jeremy,
 Grace beat Sam,
 Jason tied Sam,
 Nick beat Cruz,
+Jeremy beat Cruz,
 Michael beat Nick,
 Nick beat Cruz,
 Nick beat Cruz,
 Nick beat Paige,
-Michael beat Jeremy
+Michael beat Jeremy,
+Jeremy beat Nick,
+Jeremy beat Nick
